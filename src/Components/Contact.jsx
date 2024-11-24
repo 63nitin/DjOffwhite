@@ -49,7 +49,7 @@ const Contact = () => {
   return (
     <div className="flex flex-col font-serif md:flex-row justify-center items-center md:items-start p-6 text-white">
       {/* Left - Contact Form */}
-      <div className="w-full md:w-1/2 p-6">
+      <div className="w-full md:w-1/2 p-6 border border-yellow-500 rounded-lg">
         <h2 className="text-3xl font-bold text-yellow-500 mb-4">Contact Us</h2>
         <p className="mb-6">We would love to hear from you!</p>
 
